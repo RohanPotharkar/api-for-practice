@@ -1,73 +1,71 @@
 [
 {
-  id: "1",
-  name: "Rashmika Mandanna",
-  image: require("../../assets/rashmika.jpg"),
-  details: "Rashmika Mandanna is an Indian actress who works in Telugu, Kannada, Hindi and Tamil films. Her accolades include four SIIMA Awards and a Filmfare Award South. One of South India's highest-paid actresses, she was featured in Forbes India's 2024 list of 30 Under 30.",
-  mobile: "9877445671"
+  "id": "1",
+  "name": "Rashmika Mandanna",
+  "image": "require('../../assets/rashmika.jpg')",
+  "details": "Rashmika Mandanna is an Indian actress who works in Telugu, Kannada, Hindi and Tamil films. Her accolades include four SIIMA Awards and a Filmfare Award South. One of South India's highest-paid actresses, she was featured in Forbes India's 2024 list of 30 Under 30.",
+  "mobile": "9877445671"
 },
   {
-  id: "2",
-  name: "Allu Arjun",
-  image: require("../../assets/alluarjun.jpg"),
-  details: "Allu Arjun is an Indian actor who works in Telugu cinema. He has been featured in Forbes India's Celebrity 100 list since 2014. Allu Arjun is a recipient of several awards including a National Film Award, six Filmfare Awards, and three Nandi Awards. He is popularly referred to as Stylish Star and Icon Star.",
-  mobile: "9968374152"
+  "id": "2",
+  "name": "Allu Arjun",
+  "image": "require('../../assets/alluarjun.jpg')",
+  "details": "Allu Arjun is an Indian actor who works in Telugu cinema. He has been featured in Forbes India's Celebrity 100 list since 2014. Allu Arjun is a recipient of several awards including a National Film Award, six Filmfare Awards, and three Nandi Awards. He is popularly referred to as Stylish Star and Icon Star.",
+  "mobile": "9968374152"
 },
   {
-  id: "3",
-  name: "Pooja Hegde",
-  image: require("../../assets/pooja.jpg"),
-  details: "Pooja Hegde is an Indian actress who appears in Telugu, Hindi and Tamil films. The second runner-up at the 2010 Miss Universe India pageant, Hegde is one of South India's highest-paid actresses and has received numerous accolades, including four SIIMA Awards.",
-  mobile: "9647511422"
+  "id": "3",
+  "name": "Pooja Hegde",
+  "image": "require('../../assets/pooja.jpg')",
+  "details": "Pooja Hegde is an Indian actress who appears in Telugu, Hindi and Tamil films. The second runner-up at the 2010 Miss Universe India pageant, Hegde is one of South India's highest-paid actresses and has received numerous accolades, including four SIIMA Awards.",
+  "mobile": "9647511422"
 },
   {
-  id: "4",
-  name: "Rocking Star Yash",
-  image: require("../../assets/yash.jpg"),
-  details: "Naveen Kumar Gowda, known by his stage name Yash, is an Indian actor who predominantly works in Kannada films. He is a recipient of three Filmfare Awards South and two SIIMA awards. Yash began his career with appearances in several television series in the 2000s. He made his film debut in 2007 with Jambada Hudugi.",
-  mobile: "8974163441"
+  "id": "4",
+  "name": "Rocking Star Yash",
+  "image": "require('../../assets/yash.jpg')",
+  "details": "Naveen Kumar Gowda, known by his stage name Yash, is an Indian actor who predominantly works in Kannada films. He is a recipient of three Filmfare Awards South and two SIIMA awards. Yash began his career with appearances in several television series in the 2000s. He made his film debut in 2007 with Jambada Hudugi.",
+  "mobile": "8974163441"
 },
   {
-  id: "5",
-  name: "Sreeleela",
-  image: require("../../assets/sreeleela.jpg"),
-  details: "Sreeleela is an American actress of Indian origin who predominantly works in Telugu and Kannada cinema. She began her career as a child artist, before playing a lead role in the 2019 Kannada film Kiss, and then starred in the Telugu films Pelli SandaD, Dhamaka, and Bhagavanth Kesari.",
-  mobile: "8766341233"
+  "id": "5",
+  "name": "Sreeleela",
+  "image": "require('../../assets/sreeleela.jpg')",
+  "details": "Sreeleela is an American actress of Indian origin who predominantly works in Telugu and Kannada cinema. She began her career as a child artist, before playing a lead role in the 2019 Kannada film Kiss, and then starred in the Telugu films Pelli SandaD, Dhamaka, and Bhagavanth Kesari.",
+  "mobile": "8766341233"
 },
   {
-  id: "6",
-  name: "Rajnikanth",
-  image: require("../../assets/rajni.jpg"),
-  details: "Shivaji Rao Gaikwad, known professionally as Rajinikanth, is an Indian actor who predominantly works in Tamil cinema. In a career spanning over five decades, he has done 170 films that includes films in Tamil, Hindi, Telugu, Kannada, Bengali, and Malayalam.",
-  mobile: "8549768412"
+  "id": "6",
+  "name": "Rajnikanth",
+  "image": "require('../../assets/rajni.jpg')",
+  "details": "Shivaji Rao Gaikwad, known professionally as Rajinikanth, is an Indian actor who predominantly works in Tamil cinema. In a career spanning over five decades, he has done 170 films that includes films in Tamil, Hindi, Telugu, Kannada, Bengali, and Malayalam.",
+  "mobile": "8549768412"
 },
   {
-  id: "7",
-  name: "Kajal Aggarwal",
-  image: require("../../assets/kajal.jpg"),
-  details: "Kajal A Kitchlu, known professionally as Kajal Aggarwal, is an Indian actress who predominantly works in Telugu and Tamil films, as well as some Hindi films. She is a recipient of three South Indian International Movie Awards along with four Filmfare Awards South nominations.",
-  mobile: "7845632564"
+  "id": "7",
+  "name": "Kajal Aggarwal",
+  "image": "require('../../assets/kajal.jpg')",
+  "details": "Kajal A Kitchlu, known professionally as Kajal Aggarwal, is an Indian actress who predominantly works in Telugu and Tamil films, as well as some Hindi films. She is a recipient of three South Indian International Movie Awards along with four Filmfare Awards South nominations.",
+  "mobile": "7845632564"
 },
   {
-  id: "8",
-  name: "Prabhas",
-  image: require("../../assets/prabhas.jpeg"),
-  details: "Uppalapati Venkata Suryanarayana Prabhas Raju, known mononymously as Prabhas, is an Indian actor who predominantly works in Telugu cinema. He is one of the highest-paid actors in Indian cinema and has been featured in Forbes India's Celebrity 100 list since 2015.",
-  mobile: "7789641552"
+  "id": "8",
+  "name": "Prabhas",
+  "image": "require('../../assets/prabhas.jpeg')",
+  "details": "Uppalapati Venkata Suryanarayana Prabhas Raju, known mononymously as Prabhas, is an Indian actor who predominantly works in Telugu cinema. He is one of the highest-paid actors in Indian cinema and has been featured in Forbes India's Celebrity 100 list since 2015.",
+  "mobile": "7789641552"
 },
   {
-  id: "9",
-  name: "Tamanna Bhatia",
-  image: require("../../assets/tamanna.jpg"),
-  details: "Tamanna Bhatia, credited as Tamannaah Bhatia, is an Indian actress known for her work in Telugu, Tamil and Hindi cinema. She has acted in 85 films. She has received several awards, including two Santosham Film Awards, two SIIMA Award and the Kalaimamani Award.",
-  mobile: "7895663214"
+  "id": "9",
+  "name": "Tamanna Bhatia",
+  "image": "require('../../assets/tamanna.jpg')",
+  "details": "Tamanna Bhatia, credited as Tamannaah Bhatia, is an Indian actress known for her work in Telugu, Tamil and Hindi cinema. She has acted in 85 films. She has received several awards, including two Santosham Film Awards, two SIIMA Award and the Kalaimamani Award.",
+  "mobile": "7895663214"
 },
   {
-  id: "10",
-  name: "Ravi Teja",
-  image: require("../../assets/raviteja.jpg"),
-  details: "Bhupatiraju Ravi Shankar Raju, known professionally as Ravi Teja, is an Indian actor and film producer who mainly works in Telugu cinema. Known for his roles in action comedy films, he is popular by the moniker Mass Maharaja.",
-  mobile: "7020478569"
-},
-
-]
+  "id": "10",
+  "name": "Ravi Teja",
+  "image": "require('../../assets/raviteja.jpg')",
+  "details": "Bhupatiraju Ravi Shankar Raju, known professionally as Ravi Teja, is an Indian actor and film producer who mainly works in Telugu cinema. Known for his roles in action comedy films, he is popular by the moniker Mass Maharaja.",
+  "mobile": "7020478569"
+}]
